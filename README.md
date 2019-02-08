@@ -1,5 +1,5 @@
 # moodle_project
-My first repository working towards writing my own moodle plugins focusing on music theory
+My first repository working towards writing my own Moodle plugins focusing on music theory
 
 After building my own Joomla website I started with my own Moodle environment. 
 I have seen the very nice contributions of Justin Hunt on Youtube.
